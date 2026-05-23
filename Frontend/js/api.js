@@ -4,7 +4,7 @@
  */
 
 // Configure your Backend Server connection URL here:
-const BACKEND_BASE_URL = 'http://localhost:3000';
+const BACKEND_BASE_URL = 'https://complaint-registration-platform-96.onrender.com';
 
 // API endpoints prefix path
 const API_BASE_URL = `${BACKEND_BASE_URL}/api`;
